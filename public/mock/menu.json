@@ -1,0 +1,181 @@
+[
+    {
+        "id": "m-101",
+        "category": "Espresso Bar",
+        "name": "Iced Pistachio Latte",
+        "description": "Double ristretto, oat milk, and roasted pistachio cream.",
+        "price": 325.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-102",
+        "category": "Espresso Bar",
+        "name": "Roastique Signature Pour-Over",
+        "description": "Single-origin Ethiopian beans brewed at exactly 93°C.",
+        "price": 250.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-103",
+        "category": "Espresso Bar",
+        "name": "Velvet Flat White",
+        "description": "Micro-foamed whole milk over a rich espresso blend.",
+        "price": 225.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-104",
+        "category": "Espresso Bar",
+        "name": "Smoked Caramel Macchiato",
+        "description": "Espresso marked with foam and house-smoked caramel drizzle.",
+        "price": 275.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-105",
+        "category": "Espresso Bar",
+        "name": "Classic Spanish Latte",
+        "description": "Sweetened condensed milk balanced with bold espresso.",
+        "price": 300.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-106",
+        "category": "Signature Drinks",
+        "name": "Nitro Cold Brew",
+        "description": "Steeped for 24 hours and infused with nitrogen for a creamy finish.",
+        "price": 275.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-107",
+        "category": "Signature Drinks",
+        "name": "Rosewater Matcha",
+        "description": "Ceremonial grade matcha whisked with subtle rosewater and almond milk.",
+        "price": 325.00,
+        "isAvailable": false
+    },
+
+    {
+        "id": "m-201",
+        "category": "Artisan Pastries",
+        "name": "Burnt Basque Cheesecake",
+        "description": "Caramelized crust with a molten, creamy center.",
+        "price": 425.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-202",
+        "category": "Artisan Pastries",
+        "name": "Twice-Baked Almond Croissant",
+        "description": "Flaky butter pastry filled with rich almond frangipane.",
+        "price": 275.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-203",
+        "category": "Artisan Pastries",
+        "name": "Dark Chocolate Cardamom Babka",
+        "description": "Braided sweet bread laced with dark chocolate and a hint of spice.",
+        "price": 300.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-301",
+        "category": "Breakfast & Brunch",
+        "name": "Truffle Mushroom Toast",
+        "description": "Wild mushrooms, truffle oil, and ricotta on toasted sourdough.",
+        "price": 700.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-302",
+        "category": "Breakfast & Brunch",
+        "name": "Smashed Avocado & Feta",
+        "description": "Chili flakes, feta crumble, and microgreens on artisan rye.",
+        "price": 625.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-303",
+        "category": "Breakfast & Brunch",
+        "name": "Harissa Shakshuka",
+        "description": "Poached farm eggs in a spiced tomato and bell pepper stew.",
+        "price": 750.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-401",
+        "category": "Main Courses",
+        "name": "Wagyu Truffle Burger",
+        "description": "Premium wagyu beef, caramelized onions, and truffle aioli on a brioche bun.",
+        "price": 1200.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-402",
+        "category": "Main Courses",
+        "name": "Pan-Seared Salmon",
+        "description": "Served with asparagus puree and a lemon butter caper sauce.",
+        "price": 1400.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-403",
+        "category": "Main Courses",
+        "name": "Wild Mushroom Risotto",
+        "description": "Arborio rice finished with parmesan, butter, and white truffle oil.",
+        "price": 1100.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-404",
+        "category": "Main Courses",
+        "name": "Lemon Herb Grilled Chicken",
+        "description": "Free-range breast fillet served over roasted root vegetables.",
+        "price": 1000.00,
+        "isAvailable": false
+    },
+
+    {
+        "id": "m-501",
+        "category": "Salads & Bowls",
+        "name": "Burrata & Heirloom Tomato",
+        "description": "Fresh burrata, basil pesto, and aged balsamic glaze.",
+        "price": 800.00,
+        "isAvailable": true
+    },
+
+    {
+        "id": "m-502",
+        "category": "Salads & Bowls",
+        "name": "Quinoa Harvest Bowl",
+        "description": "Roasted sweet potato, kale, chickpeas, and a tahini lemon dressing.",
+        "price": 725.00,
+        "isAvailable": true
+    },
+    
+    {
+        "id": "m-503",
+        "category": "Salads & Bowls",
+        "name": "Charred Caesar Salad",
+        "description": "Grilled romaine hearts, house croutons, and shaved grana padano.",
+        "price": 650.00,
+        "isAvailable": true
+    }
+]

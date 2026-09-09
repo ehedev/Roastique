@@ -1,0 +1,30 @@
+{
+    "small":
+    {
+        "label": "Small (1-2 Guests)",
+        "capacity": 2,
+        "count": 8
+    },
+
+    "medium":
+    {
+        "label": "Medium (3-4 Guests)",
+        "capacity": 4,
+        "count": 5
+    },
+
+    "large":
+    {
+        "label": "Large (5-6 Guests)",
+        "capacity": 6,
+        "count": 3
+    },
+
+    "private":
+    {
+        "label": "Private Dining (7-12 Guests)",
+        "capacity": 12,
+        "count": 1
+    }
+
+}
