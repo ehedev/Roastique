@@ -14,13 +14,11 @@ const HighlightItems = () => {
                 return (
                     <Col lg={4} key={item.id}>
                         <div
-                            className={`p-4 h-100 d-flex flex-column ${isMiddle ? 'shadow-lg border-0' : 'border bg-white'}`}
+                            className={`p-4 h-100 d-flex flex-column highlight-card ${isMiddle ? 'shadow-lg border-0 highlight-card-middle' : 'border bg-white'}`}
                             style={{
                                 backgroundColor: isMiddle ? 'var(--text-primary)' : '#ffffff',
                                 borderColor: isMiddle ? 'transparent' : 'rgba(44, 30, 22, 0.1)',
-                                borderRadius: '0',
-                                transform: isMiddle ? 'translateY(-8px)' : 'none',
-                                transition: 'transform 0.3s ease-in-out'
+                                borderRadius: '0'
                             }}
                         >
                             <div className='mb-auto'>

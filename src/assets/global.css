@@ -213,6 +213,18 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: inset 0 0 0 2px var(--text-primary) !important;
 }
 
+/* Highlights Section Styles */
+
+.highlight-card {
+    transition: transform 0.3s ease-in-out;
+}
+
+@media (min-width: 992px) {
+    .highlight-card-middle {
+        transform: translateY(-8px);
+    }
+}
+
 /* Footer Section Styles */
 
 .footer-link {
