@@ -2,6 +2,8 @@
 
 > **Live Demo:** [https://roastique-restaurant.vercel.app]
 
+![Roastique Restaurant Preview](./src/assets/images/Preview/preview.png)
+
 Roastique is a modern, responsive frontend application built for a high-end coffee roastery and restaurant. This project seamlessly blends a premium visual aesthetic with complex frontend state management, featuring a fully functional, dynamically validated reservation engine and an interactive digital menu.
 
 ---
