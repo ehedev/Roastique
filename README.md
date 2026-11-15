@@ -38,7 +38,7 @@ The crown jewel of Roastique is its custom booking system, designed to handle re
 | **React Router DOM** | Secure multi-page navigation and state preservation. |
 | **React Hook Form & Yup** | Complex form state management and schema-based validation. |
 | **React-Bootstrap** | Core layout wireframing and responsive component structuring. |
-| **Custom CSS** | Deep styling overrides, bespoke focus states, and typography. |
+| **Sass (SCSS)** | Modular styling architecture, reusable variables/mixins, and clean nested overrides for React-Bootstrap components. |
 | **React Icons** | Clean, scalable vector graphics for UI elements. |
 
 ---
