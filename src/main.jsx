@@ -8,7 +8,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 // Import CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './assets/global.css';
+import './index.scss';
 
 // Import Context Providers
 import { AuthProvider } from './store/AuthContext.jsx';

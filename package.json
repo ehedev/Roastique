@@ -20,6 +20,7 @@
     "react-icons": "^5.7.0",
     "react-router-dom": "^7.18.2",
     "react-router-hash-link": "^2.4.3",
+    "sass": "^1.108.2",
     "yup": "^1.7.1"
   },
   "devDependencies": {
